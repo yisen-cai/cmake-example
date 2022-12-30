@@ -1,0 +1,12 @@
+build/
+cmake-build-debug/
+release/
+.idea/
+*.iml
+dynamic/
+.vscode/
+.DS_Store
+.vs/
+debug.log
+
+cmake-build*/
